@@ -2,7 +2,6 @@
 
 > Deep-Dive Engineering Notes for Java, JVM Internals, Spring Boot, JPA, Databases, Distributed Systems, Kafka, System Design, and Production-Grade Backend Architecture
 
-
 A structured collection of advanced Java and backend engineering notes focused on understanding what happens under the hood, rather than memorizing APIs.
 
 These notes are designed for:
